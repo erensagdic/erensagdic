@@ -6,6 +6,10 @@ Whether you have questions, feedback, or just want to say hello and share a bit 
 - This is my gitlab contributions ss for 2023
 <img width="962" alt="image" src="https://github.com/erensagdic/erensagdic/assets/42411082/3ea9e840-38ce-42da-aa33-382f0442e473">
 
+- This is my gitlab contributions ss for 2024
+![image](https://github.com/user-attachments/assets/709c5b54-7825-4811-91da-f370b0d86041)
+
+
 <!---
 erensagdic/erensagdic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
